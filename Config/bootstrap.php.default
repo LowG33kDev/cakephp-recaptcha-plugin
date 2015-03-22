@@ -1,0 +1,6 @@
+<?php
+
+// Enter your site key
+Configure::write('Recaptcha.site_key','');
+// Enter your secret key
+Configure::write('Recaptcha.secret_key','');
